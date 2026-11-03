@@ -5,7 +5,7 @@ An AI-assisted prototype that flags GST **input tax credit (ITC)** that is block
 > Built for the Tresata take-home assignment. All invoice data is **synthetic** and was made up by me. The rules are built from **public statute text**. This is not tax advice.
 
 ## Live demo
-**[Open the clickable demo](<paste public artifact link>)**. Nothing to install.
+Open the clickable demo . Nothing to install.
 1. Pick one of the 14 synthetic cases, or type your own invoice line.
 2. Set the buyer's business activity, GSTR-2B status and payment status.
 3. Click **Check ITC**. You get the decision, the eligible ₹ amount, the cited clause, the evidence and a 5-step audit trail.
